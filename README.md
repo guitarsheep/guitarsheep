@@ -7,7 +7,7 @@
 [strawpage](https://guitarshiip.straw.page/) 
 [atabook](https://guitarsheep.atabook.org/)
 
-i am ${{\color{#E8E18B}{\textsf{ profic }}}}$ and ${{\color{#E8E18B}{\textsf{ proendo }}}}$, if you're confused what either of those means- whisper and ask me. :) if you're upset by that, jobs are hiring! ;)
+i am ${{\color{#E8E18B}{\textsf{ profic }}}}$ and ${{\color{#E8E18B}{\textsf{ proendo }}}}$, if you're confused what either of those means- whisper and ask me. :) so be it. i'm not your mother.
 this page is overly due for a rework! please ignore how it's not colorcoded. :)
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
