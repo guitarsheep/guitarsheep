@@ -8,6 +8,7 @@
 [atabook](https://guitarsheep.atabook.org/)
 
 i am ${{\color{#E8E18B}{\textsf{ profic }}}}$ and ${{\color{#E8E18B}{\textsf{ proendo }}}}$, if you're confused what either of those means- whisper and ask me. :) if you're upset by that, jobs are hiring! ;)
+this page is overly due for a rework! please ignore how it's not colorcoded. :)
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3h1kxi6jjwtr3gahn6nutxdix&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false">
