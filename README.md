@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=4444&pause=1000&color=316046&width=435&lines=i+didn't+know+you+could+read.)](https://git.io/typing-svg)
 
-[strawpage](https://guitarshiip.straw.page/) 
-[atabook](https://guitarsheep.atabook.org/)
+[strawpage](https://slytherpuff.straw.page/) 
+[atabook](https://hedric.atabook.org/)
 
 i am ${{\color{#316046}{\textsf{ profic }}}}$ and ${{\color{#316046}{\textsf{ proendo }}}}$, if you're confused what either of those means- whisper and ask me. :) so be it. i'm not your mother.
 this page is overly due for a rework!
